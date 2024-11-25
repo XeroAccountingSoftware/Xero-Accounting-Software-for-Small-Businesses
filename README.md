@@ -1,6 +1,10 @@
 # Xero-Accounting-Software-for-Small-Businesses
 
+<img src="https://github.com/XeroAccountingSoftware/Xero-Accounting-Software-for-Small-Businesses/blob/main/g.jpg"/>
+
 ***Accounting software made for small businesses and sole traders***
+
+[TRY FREE](https://bit.ly/4eMKMrq)
 
 Explore Xero accounting software and its tools for small businesses, accountants, and bookkeepers.
 
